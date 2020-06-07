@@ -1,5 +1,6 @@
 # Dashboard
 
+![alt text](https://github.com/A-Wheeto/Dashboard/blob/master/dashboard.JPG?raw=true)
 
 - Dashboard.py - Main Dashboard script that draws the form and inserts text/images.
 - xplane.py - Web scrapes data from threshold.net

@@ -7,7 +7,7 @@ def get():
     print("-GETTING CURRENT WEATHER")
 
     url = 'https://api.openweathermap.org/data/2.5/onecall?lat=53.9600&lon=1.0873&units=metric&' \
-          'appid=68296e43b01c362bc70e29711125d025'
+          'appid='
     response = requests.get(url)
     response_json = response.json()
 
